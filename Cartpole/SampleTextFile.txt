@@ -1,0 +1,22 @@
+Task 1 
+env._max_episode_steps = 500
+Average test reward: 500.0 episode length: 500.0
+
+
+test = True
+    position_history, timestep_len = [], []
+
+ if test == True:
+    position_history.append(observation[0])
+    timestep_len.append(test_len)
+
+Average test reward: 500.0 episode length: 500.0
+Average test reward: 188.138 episode length: 188.138
+Average test reward: 376.656 episode length: 376.656
+Average test reward: 500.0 episode length: 500.0
+
+Task 3 
+1- trained with 1000 episodes
+2- cannot achieve max 2000 reward
+
+
